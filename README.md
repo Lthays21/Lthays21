@@ -1,16 +1,13 @@
-### Hi there 👋
+### Prazer em conhecer-te!
 
-<!--
-**Lthays21/Lthays21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![]()
 
-Here are some ideas to get you started:
+- 17;
+- Ela/dela;
+- Estudante;
+- Aprendendo **Front-end**;
+- Disposta a receber ajuda no processo ⤴️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato 
+
+l.thays1824@gmail.com (bem arcaico...)
